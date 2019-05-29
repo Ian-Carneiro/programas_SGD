@@ -1,7 +1,7 @@
 from numpy.linalg import inv
 import numpy as np
 
-msg = "DELAYOPERATIONS"
+msg = "HELLO WORLD"
 chave = np.array([[8, 6, 9, 5], [6, 9, 5, 10],[5, 8, 4, 9], [10, 6, 11, 4]])
 alph = "KPCOHARNGZEYSMWFLVIQDUXBTJ"
 
